@@ -2,7 +2,7 @@
   "name": "26-09_bioinfo_ws_docker_and_ci",
   "image": "mcr.microsoft.com/vscode/devcontainers/python:3.14-bookworm",
   "features": {
-    "ghcr.io/miguelrodo/devcontainerfeatures/apptainer:1": {},
+    //"ghcr.io/miguelrodo/devcontainerfeatures/apptainer:1": {},
     "ghcr.io/devcontainers/features/docker-in-docker:4": {
       "moby": false
     },
